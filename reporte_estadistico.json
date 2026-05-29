@@ -1,0 +1,11 @@
+{
+    "total_registros": 5,
+    "columnas": [
+        "Nombre",
+        "Edad",
+        "Correo",
+        "Ciudad"
+    ],
+    "errores_detectados": 3,
+    "edad_promedio": 22.8
+}

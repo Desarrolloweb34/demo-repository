@@ -1,0 +1,27 @@
+[
+    {
+        "operacion": "Limpieza de espacios",
+        "descripcion": "Se eliminaron espacios innecesarios en la columna Nombre",
+        "fecha": "2026-05-27 22:37:51"
+    },
+    {
+        "operacion": "Normalización de texto",
+        "descripcion": "Los nombres fueron convertidos a formato Title Case",
+        "fecha": "2026-05-27 22:37:51"
+    },
+    {
+        "operacion": "Valores nulos",
+        "descripcion": "Se reemplazaron nombres vacíos por 'Desconocido'",
+        "fecha": "2026-05-27 22:37:51"
+    },
+    {
+        "operacion": "Imputación de datos",
+        "descripcion": "Edades vacías reemplazadas por promedio (22.8)",
+        "fecha": "2026-05-27 22:37:51"
+    },
+    {
+        "operacion": "Validación de correos",
+        "descripcion": "Se analizaron correos electrónicos inválidos",
+        "fecha": "2026-05-27 22:37:51"
+    }
+]

@@ -1,0 +1,3 @@
+Fila 2: doble @ detectado
+Fila 3: correo inválido
+Fila 5: correo inválido
